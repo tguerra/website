@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Tristan Guerra
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sciences Po Grenoble / Pacte Social Sciences Research Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD Student at Sciences Po Grenoble. My research focuses on public opinion and political polarization in Western Europe.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Opinion
+- Comparative Politics
+- Computational Social Sciences
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in Political Science
+    institution: Sciences Po Grenoble
+    year: 2017
+  - course: Visiting Student Research Collaborator
+    institution: Princeton University
+    year: 2017
+  - course: Master in Political Science Research
+    institution: Sciences Po Grenoble
+    year: 2016
+  - course: BSc in Political Science
+    institution: Sciences Po Grenoble
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/TristanGuerra_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=6Pi4NcIAAAAJ&hl=fr
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tguerra
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
