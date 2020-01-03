@@ -17,28 +17,54 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Visiting Student Research Collaborator"
+  company = "Princeton University, Survey Research Center"
+  company_url = "https://psrc.princeton.edu/"
+  location = "New Jersey, USA"
+  date_start = "2017-03"
+  date_end = "2017-09"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "CNRS & Sciences Po Grenoble"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Grenoble, France"
+  date_start = "2016-07"
+  date_end = "2016-09"
+  description = """
+  """
+
+[[experience]]
+  title = "Opinion Research Executive"
+  company = "Odoxa"
+  company_url = "http://www.odoxa.fr/"
+  location = "Paris, France"
+  date_start = "2015-03"
+  date_end = "2015-08"
+  description = """
+  Responsibilities include:
+  
+  * Managing the survey process
+  * Data collection, analysis and reporting
+  """
+
+[[experience]]
+  title = "Junior Project Manager"
+  company = "Fondation pour l’innovation politique"
+  company_url = "http://www.fondapol.org/en/"
+  location = "Paris, France"
+  date_start = "2014-09"
+  date_end = "2015-02"
+  description = """
+  Responsibilities include:
+  
+  * Research reports for the leading French political think tank
+  * Aggregating and actualizing public opinion and electoral data
+  * Creation of a survey open-data platform for replication
+  """
 
 +++
