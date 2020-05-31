@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Populist Attitudes Among the French Yellow Vests"
 authors:
 - admin
 - Tristan Guerra
