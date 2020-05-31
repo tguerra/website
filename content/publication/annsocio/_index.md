@@ -6,7 +6,7 @@ authors:
 - Frédéric Gonthier
 - Tristan Guerra
 date: "2019-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3917/anso.192.0451"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-- name: Workshop
+- name: Journal Website
   url: https://www.cairn.info/revue-l-annee-sociologique-2019-2-page-451.htm
 #url_pdf: ''
 #url_code: ''

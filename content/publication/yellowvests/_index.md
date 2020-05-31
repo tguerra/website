@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: Workshop
-  url: http://corpora.ids-mannheim.de/cmlc-2019.html
+- name: Journal website
+  url: https://brill.com/view/journals/popu/3/1/article-p1_1.xml
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''
