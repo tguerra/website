@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: In *L'Année Sociologique*
 # publication_short: In *CMLC-7*
 
-abstract: This article scrutinizes the working class through the lens of populist attitudes and voting for the radical parties, with which they are frequently associated. Using latent class analysis (LCA), it distinguishes between three specific subgroups: the precariat, the retired working class and the working poor. Though these subgroups are very homogeneous in their populist attitudes, they differ more strongly from each other in their electoral behavior. Thus, the article speaks to the importance of a multidimensional approach of the working classes when examining their relationship to politics.
+abstract: This article scrutinizes the working class through the lens of populist attitudes and voting for the radical parties, with which they are frequently associated. The article speaks to the importance of a multidimensional approach of the working classes when examining their relationship to politics.
 
 # Summary. An optional shortened abstract.
 summary: 
