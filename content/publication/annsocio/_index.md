@@ -21,10 +21,10 @@ publication_types: ["2"]
 publication: In *L'Année Sociologique*
 # publication_short: In *CMLC-7*
 
-abstract: There has been much speculation as to how to interpret the Yellow Vest movement in France. Building on a survey of more than 5,000 Yellow Vests, this research report argues that producerism is key to make sense of the protesters’ populist attitudes and relationship to politics.
+abstract: This article scrutinizes the working class through the lens of populist attitudes and voting for the radical parties, with which they are frequently associated. Using latent class analysis (LCA), it distinguishes between three specific subgroups: the precariat, the retired working class and the working poor. Though these subgroups are very homogeneous in their populist attitudes, they differ more strongly from each other in their electoral behavior. Thus, the article speaks to the importance of a multidimensional approach of the working classes when examining their relationship to politics.
 
 # Summary. An optional shortened abstract.
-summary: This article scrutinizes the working class through the lens of populist attitudes and voting for the radical parties, with which they are frequently associated. Using latent class analysis (LCA), it distinguishes between three specific subgroups: the precariat, the retired working class and the working poor. Though these subgroups are very homogeneous in their populist attitudes, they differ more strongly from each other in their electoral behavior. Thus, the article speaks to the importance of a multidimensional approach of the working classes when examining their relationship to politics.
+summary: 
 
 
 tags:
