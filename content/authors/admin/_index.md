@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student at Sciences Po Grenoble. My research focuses on public opinion and political polarization in Western Europe.
+bio: I am a PhD Student at Sciences Po Grenoble. My research focuses on public opinion, with a special focus on political polarization in Western Europe.
 
 interests:
 - Public Opinion
@@ -73,6 +73,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate at Sciences Po Grenoble, University of Grenoble-Alpes. I graduated from Sciences Po Grenoble and formerly I was Visiting Student Research Collaborator in 2017 at Princeton University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My main research interests lie in the field of public opinion comprising mainly questions on mass polarization.  
+My dissertation focuses on political polarization in Western Europe on economic and cultural issues. My areas of interest span across the fields of political sociology – social class, political attitudes, and political conflict – political psychology and comparative politics— voting behaviour, populist attitudes among the citizenry ; with a regional focus on Western Europe.
+
+I am eager to integrate a range of research methods in my research such as time-series-cross-section analysis (TSCS), quantitative analysis in general and also survey experiments.
